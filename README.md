@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o Alexandre Araujo! 👋
 
-<!--
-**alex4ndrej7/alex4ndrej7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Java em formação | Estudante de ADS & Gestão de TI
 
-Here are some ideas to get you started:
+Atualmente focado em construir soluções robustas com **Java** e explorar o mundo do desenvolvimento Backend. Com background em logística e administração, trago uma visão estratégica para o código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** e **Gestão de TI**.
+- ☕ Especializando em **Java** e Programação Orientada a Objetos.
+- 📊 Interessado em análise de dados e automação de processos.
+
+---
+
+### 🛠 Tecnologias e Ferramentas
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📈 Minhas Metas para 2026
+- [ ] Dominar Spring Boot para APIs REST.
+- [ ] Implementar 3 projetos de grande porte em Java.
+- [ ] Contribuir em projetos Open Source.
+
+📫 Como me encontrar: [www.linkedin.com/in/alexandre-joão-47a52325b]
